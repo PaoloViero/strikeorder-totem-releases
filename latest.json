@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelAxOXdCL29wdzhtUlRpUzZodTV3NmhPbmZ5WjVXTC9Oc2hIdFE1V2JuWTM0dzA3dXZRNjFreHFZU2VkZlRsb3hMS2l0cUUyT2s5TExJRWVzYkhFN3A4TVUvV0xqbEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTMyNDAzCWZpbGU6U3RyaWtlJkJpbGwgT3JkZXIgVG90ZW1fMS4wLjBfeDY0LXNldHVwLmV4ZQpwdG9kZVFWclU0UGpISGJKSDRacXNYeWhVUzl0a0o2WWRRRDJGWllkYkh3RjRId0t3RDhCK2psQTRvSnZ2T2c4ckoxRUlNRGtxVFRaT3hUYzZ2ckpDQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-totem-releases/releases/download/v1.0.0/StrikeBill-Order-Totem_1.0.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-10-16T06:35:21Z",
+    "version":  "1.0.0",
+    "notes":  "Aggiornamento Strike Order / Bill Order Totem versione 1.0.0."
+}
