@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelAxOXdCL29wdzhRNDhFZUQrVGtNZ3hjdnJJbE5neEZlZk9OdW1Ia2d0ZmE3RXVUSXI0RGlQamNmNEFlSmF5VS8yckUrMkhvQms0SWNWcmk3WWpudkNyZi9ZTVlyZmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzIwMTQxCWZpbGU6U3RyaWtlJkJpbGwgT3JkZXIgVG90ZW1fMS4wLjE2X3g2NC1zZXR1cC5leGUKNjRaMS9OY0N1UlBHcGwralNGR0RnQzE3VUszajdLa0Q5dzRLTWxXa0F5bnJPZko0QjAwUzJrdlluWGE5Ynl3NjhiR2JEVEd0ZEhPZzFXMVZ0NTVsREE9PQo=",
-                                             "url":  "https://github.com/PaoloViero/strikeorder-totem-releases/releases/download/v1.0.16/StrikeBill-Order-Totem_1.0.16_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelAxOXdCL29wdzFVMjMreWNhWDJjY0N5MHBLODducEZUQWdrQ3YwK1VXZ29saUtuMHVCaWJndVM1MklPcnIwNlVuT1kvQndoeFJQM1pOb2tuVFFNTW4xK0o0SjI0eFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDA4NTg5CWZpbGU6U3RyaWtlJkJpbGwgT3JkZXIgVG90ZW1fMS4wLjE3X3g2NC1zZXR1cC5leGUKck5qZ3A5eDdROGpPNlRhb0d4SUFSNHhrRnVjeFZnQ2ppdFZFZU50K2ljLzlkeERrZDcrWlp6TmxtRStveDArUnB1ZDc0MnZXVElqeHRVOU1kN2VsQlE9PQo=",
+                                             "url":  "https://github.com/PaoloViero/strikeorder-totem-releases/releases/download/v1.0.17/StrikeBill-Order-Totem_1.0.17_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-18T10:42:56Z",
-    "version":  "1.0.16",
-    "notes":  "Aggiornamento Strike Order / Bill Order Totem versione 1.0.16."
+    "pub_date":  "2026-10-19T11:17:16Z",
+    "version":  "1.0.17",
+    "notes":  "Aggiornamento Strike Order / Bill Order Totem versione 1.0.17."
 }
